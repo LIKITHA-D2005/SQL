@@ -21,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/LIKITHA-D2005/SQL/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/LIKITHA-D2005/SQL/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/LIKITHA-D2005/SQL/tree/master/1934-confirmation-rate) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/LIKITHA-D2005/SQL/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/LIKITHA-D2005/SQL/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/LIKITHA-D2005/SQL/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/LIKITHA-D2005/SQL/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
