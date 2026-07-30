@@ -53,9 +53,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/LIKITHA-D2005/SQL/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/LIKITHA-D2005/SQL/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/LIKITHA-D2005/SQL/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/LIKITHA-D2005/SQL/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/LIKITHA-D2005/SQL/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
